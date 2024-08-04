@@ -15,6 +15,9 @@
 
 <br clear="both">
 
+
+<img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="25" alt="typescript logo"  />
   <img width="5" />
