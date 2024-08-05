@@ -10,10 +10,11 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luczevz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luczevz&locale=pt-br&hide_title=false&layout=compact&card_width=290&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luczevz&locale=pt-br&hide_title=false&layout=compact&card_width=100&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+
+  </div>
 
   <img align="right" width="250" height="200" src="https://i.pinimg.com/originals/72/4b/77/724b77434958918e034210e8f95ad19d.gif">
-</div>
 
 
 ###
