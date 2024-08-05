@@ -8,23 +8,20 @@
   <br>Tenho objetivo em adquirir conhecimentos válidos que possa me direcionar e ter uma carreira estruturada e que eu possa repassar este conhecimentos para outros Devs iniciantes.</p>
 
 <div align="center">
-  <a href="lukas537@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="luczevz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lucasazevedo23/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-  </a>
+  <a href="mailto:lukas537@hotmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="Microsoft Outlook logo">
+	          </a>
+	  <a href="https://mail.google.com" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="Gmail logo">
+  	            </a>
+  	  <a href="https://www.linkedin.com/in/lucasazevedo23/" target="_blank">
+                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
+ 	                  </a>
 </div>
 
-###
-
-###
 
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/72/4b/77/724b77434958918e034210e8f95ad19d.gif" />
+<img align="right" height="150" low="100" src="https://i.pinimg.com/originals/72/4b/77/724b77434958918e034210e8f95ad19d.gif"/>
 
 ###
 
@@ -37,11 +34,36 @@
 
 <br clear="both">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) 
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) 
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
-![CSHARP](https://img.shields.io/badge/Csharp-6DB33F?style=plastic&logo=csharp&logoColor=white)
+<div align="center">
+  
+<!-- ICONE HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" width="90" alt="HTML5 logo">
+  </a>
+
+<!-- ICONE CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" width="80" alt="CSS3 logo">
+  </a>
+
+<!-- ICONE JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" width="120" alt="JavaScript logo">
+  </a>
+
+<!-- ICONE BOOTSTRAP -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" width="120" alt="Bootstrap logo">
+  </a>
+
+<!-- ICONE CSHARP-->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Csharp-6DB33F?style=plastic&logo=csharp&logoColor=white" width="75" alt="C# logo">
+  </a>
+
+  
+</div>
+
 
 ###
 
