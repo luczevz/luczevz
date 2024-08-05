@@ -1,12 +1,26 @@
-<h4 align="left">Oláaaa, meu nome é Lucas</h4>
-<h5 align="left">	______________________________________________________________________________________________________________________________________________________________________________
-  Apaixonado por tecnologia, adoro jogar em meus horários livres, mas tenho focado em evoluir como profissional então estou atualmente estudando para Back End  | C# |
-	______________________________________________________________________________________________________________________________________________________________________________
-  <br>Grande parte nesses últimos 3 anos, atuei como Analista de Suporte, com SQL Server, Windows Server e Resolução de Problemas.	
-  <br>Formação em Análise e Desenvolvimento de Sistema.<br>
-  ______________________________________________________________________________________________________________________________________________________________________________
-  <br>Tenho objetivo em adquirir conhecimentos válidos que possa me direcionar e ter uma carreira estruturada e que eu possa repassar este conhecimentos para outros Devs iniciantes.
-______________________________________________________________________________________________________________________________________________________________________________</h5>
+<h4>Oláaaa, meu nome é Lucas</h4>
+  <p>Apaixonado por tecnologia, adoro jogar em meus horários livres e estou <br>
+	  sempre tentando aprender algo novo. Atualmente, estou focado em evoluir <br>
+	  como profissional e estou estudando para back-end com C#.</p>
+  
+  <p>Nos últimos 3 anos, atuei como Analista de Suporte na Custom Software. <br>
+	  Trabalhei com SQL Server Management Studio, criando scripts para resolver <br>
+	  problemas recorrentes, gerenciando Windows Server, criando usuários com <br>
+	  Active Directory (AD), entre outras tarefas diárias.</p>
+  
+  <p>Identifico-me com Banco de Dados e tenho familiaridade com SQL Server. <br>
+	  Gosto de criar tabelas, bancos de dados, alterar tabelas, e utilizar <br>
+	  comandos como INNER JOIN e FULL JOIN para consultas. Comandos de <br>
+	  consulta e alteração como SELECT, DELETE, e UPDATE (aprendi a usar com BEGIN TRAN, <br>
+	  então não me julguem haha) são de grande aprendizado para mim. Caso eu volte <br>
+	  a trabalhar com essas ferramentas, já terei uma experiência significativa.</p>
+  
+  <p>Análise e Desenvolvimento de Sistemas - UNIP 
+     <br>Desenvolvedor Júnior na SinergyRH.
+     <br>Meu objetivo é adquirir conhecimentos válidos que possam me direcionar e me <br>
+	  permitir ter uma carreira estruturada, além de poder repassar esses <br>
+	  conhecimentos para outros desenvolvedores iniciantes.</p>
+
 
 <div align="center">
   <a href="mailto:lukas537@hotmail.com" target="_blank" rel="noopener noreferrer">
