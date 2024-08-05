@@ -22,20 +22,11 @@
 
 <br clear="both">
 
-
-
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="25" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="25" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo"  />
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSHARP](https://img.shields.io/badge/Csharp-6DB33F?style=for-the-badge&logo=csharp&logoColor=white)
 
 ###
 
