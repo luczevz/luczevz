@@ -1,10 +1,10 @@
 <h4>Oláaaa, meu nome é Lucas</h4>
-  <p>Apaixonado por tecnologia, adoro jogar em meus horários livres e estou <br>
+ <p>Apaixonado por tecnologia, adoro jogar em meus horários livres e estou <br>
 	  sempre tentando aprender algo novo. Atualmente, estou focado em evoluir <br>
-	  como profissional e estou estudando para back-end com C#.</p>
+	  como profissional e estou estudando para back-end com C#, e me arriscando com Front end e CSS.</p>
   
-  <p>Nos últimos 3 anos, atuei como Analista de Suporte na Custom Software. <br>
-	  Trabalhei com SQL Server Management Studio, criando scripts para resolver <br>
+  <!--<p>Nos últimos 3 anos, atuei como Analista de Suporte, minha primeira empresa foi a <br>
+	  Custom Software, trabalhei com SQL Server Management Studio, criando scripts para resolver <br>
 	  problemas recorrentes, gerenciando Windows Server, criando usuários com <br>
 	  Active Directory (AD), entre outras tarefas diárias.</p>
   
@@ -13,7 +13,7 @@
 	  comandos como INNER JOIN e FULL JOIN para consultas. Comandos de <br>
 	  consulta e alteração como SELECT, DELETE, e UPDATE (aprendi a usar com BEGIN TRAN, <br>
 	  então não me julguem haha) são de grande aprendizado para mim. Caso eu volte <br>
-	  a trabalhar com essas ferramentas, já terei uma experiência significativa.</p>
+	  a trabalhar com essas ferramentas, já terei uma experiência significativa.</p> -->
   
   <p>Análise e Desenvolvimento de Sistemas - UNIP 
      <br>Desenvolvedor Júnior na SinergyRH.
