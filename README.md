@@ -1,11 +1,12 @@
-<h1 align="left">Lucas Azevedo, seja bem vindo</h1>
-
-###
-
-<p align="left">Apaixonado por tecnologia, adoro jogar em meus horários livres, mas tenho focado em evoluir como profissional então estou atualmente estudando para Back End  | C# |
-  <br>Grande parte nesses últimos 3 anos, atuei como Analista de Suporte, com SQL Server, Windows Server e Resolução de Problemas.
+<h4 align="left">Oláaaa, meu nome é Lucas</h4>
+<h5 align="left">	______________________________________________________________________________________________________________________________________________________________________________
+  Apaixonado por tecnologia, adoro jogar em meus horários livres, mas tenho focado em evoluir como profissional então estou atualmente estudando para Back End  | C# |
+	______________________________________________________________________________________________________________________________________________________________________________
+  <br>Grande parte nesses últimos 3 anos, atuei como Analista de Suporte, com SQL Server, Windows Server e Resolução de Problemas.	
   <br>Formação em Análise e Desenvolvimento de Sistema.<br>
-  <br>Tenho objetivo em adquirir conhecimentos válidos que possa me direcionar e ter uma carreira estruturada e que eu possa repassar este conhecimentos para outros Devs iniciantes.</p>
+  ______________________________________________________________________________________________________________________________________________________________________________
+  <br>Tenho objetivo em adquirir conhecimentos válidos que possa me direcionar e ter uma carreira estruturada e que eu possa repassar este conhecimentos para outros Devs iniciantes.
+______________________________________________________________________________________________________________________________________________________________________________</h5>
 
 <div align="center">
   <a href="mailto:lukas537@hotmail.com" target="_blank" rel="noopener noreferrer">
