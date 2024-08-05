@@ -4,6 +4,8 @@
 
 <p align="left">Apaixonado por tecnologia, adoro jogar em meus horários livres, mas tenho focado em evoluir como profissional então estou atualmente estudando para Back End  | C# |<br>Grande parte nesses últimos 3 anos, atuei como Analista de Suporte, com SQL Server, Windows Server e Resolução de Problemas.<br>Formação em Análise e Desenvolvimento de Sistema.<br><br>Tenho objetivo em adquirir conhecimentos válidos que possa me direcionar e ter uma carreira estruturada e que eu possa repassar este conhecimentos para outros Devs iniciantes.</p>
 
+<img align="right" width="250" height="200" src="https://i.pinimg.com/originals/72/4b/77/724b77434958918e034210e8f95ad19d.gif">
+
 ###
 
 <div align="left">
@@ -16,7 +18,7 @@
 <br clear="both">
 
 
-<img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
+
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="25" alt="typescript logo"  />
