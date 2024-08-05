@@ -1,10 +1,25 @@
-<h1 align="left">Olá, meu nome é Lucas Azevedo</h1>
+<h1 align="left">Lucas Azevedo, seja bem vindo</h1>
 
 ###
 
-<p align="left">Apaixonado por tecnologia, adoro jogar em meus horários livres, mas tenho focado em evoluir como profissional então estou atualmente estudando para Back End  | C# |<br>Grande parte nesses últimos 3 anos, atuei como Analista de Suporte, com SQL Server, Windows Server e Resolução de Problemas.<br>Formação em Análise e Desenvolvimento de Sistema.<br><br>Tenho objetivo em adquirir conhecimentos válidos que possa me direcionar e ter uma carreira estruturada e que eu possa repassar este conhecimentos para outros Devs iniciantes.</p>
+<p align="left">Apaixonado por tecnologia, adoro jogar em meus horários livres, mas tenho focado em evoluir como profissional então estou atualmente estudando para Back End  | C# |
+  <br>Grande parte nesses últimos 3 anos, atuei como Analista de Suporte, com SQL Server, Windows Server e Resolução de Problemas.
+  <br>Formação em Análise e Desenvolvimento de Sistema.<br>
+  <br>Tenho objetivo em adquirir conhecimentos válidos que possa me direcionar e ter uma carreira estruturada e que eu possa repassar este conhecimentos para outros Devs iniciantes.</p>
 
+<div align="center">
+  <a href="lukas537@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="luczevz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasazevedo23/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
 ###
 
@@ -22,19 +37,11 @@
 
 <br clear="both">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSHARP](https://img.shields.io/badge/Csharp-6DB33F?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) 
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) 
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+![CSHARP](https://img.shields.io/badge/Csharp-6DB33F?style=plastic&logo=csharp&logoColor=white)
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-
 
