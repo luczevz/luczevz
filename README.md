@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luczevz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" width="250" height="200" src="https://i.pinimg.com/originals/72/4b/77/724b77434958918e034210e8f95ad19d.gif">
+<img align="left" width="250" height="200" src="https://i.pinimg.com/originals/72/4b/77/724b77434958918e034210e8f95ad19d.gif">
 
 ###
 
