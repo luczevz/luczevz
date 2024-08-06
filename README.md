@@ -36,20 +36,19 @@
 
 
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/e4/17/b7/e417b70bdefe786700e4a89baee03fe9.gif"/>
+<img align="right" height="150" src="https://i.pinimg.com/736x/54/9d/9a/549d9a1aa08b36543720f139887b7f59.jpg"/>
 
 
 
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luczevz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luczevz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luczevz&area=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
-
 <br clear="both">
 
 <div align="center">
