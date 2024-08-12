@@ -23,9 +23,6 @@
 
 
 <div align="center">
-  <a href="mailto:lukas537@hotmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=323330&logoColor=white&labelColor=&style=plastic" height="35" alt="Microsoft Outlook logo">
-	          </a>
 	  <a href="https://mail.google.com" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=323330&logoColor=blue&labelColor=&style=plastic" height="35" alt="Gmail logo">
   	            </a>
