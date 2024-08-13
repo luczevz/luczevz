@@ -22,8 +22,8 @@
 	  conhecimentos para outros desenvolvedores iniciantes.</p>
 
 
-<div align="center">
-	  <a href="https://mail.google.com" target="_blank" rel="noopener noreferrer">
+<div align="left">
+	<a href="https://mail.google.com" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=323330&logoColor=blue&labelColor=&style=plastic" height="35" alt="Gmail logo">
   	            </a>
   	  <a href="https://www.linkedin.com/in/lucasazevedo23/" target="_blank">
@@ -33,7 +33,7 @@
 
 
 
-<img align="right" height="160" src="https://i.pinimg.com/736x/54/9d/9a/549d9a1aa08b36543720f139887b7f59.jpg"/>
+<img align="left" height="160" src="https://i.pinimg.com/736x/54/9d/9a/549d9a1aa08b36543720f139887b7f59.jpg"/>
 
 
 
@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luczevz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=luczevz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luczevz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   
 <!-- ICONE HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
