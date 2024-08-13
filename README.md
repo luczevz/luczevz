@@ -23,12 +23,12 @@
 
 
 <div align="left">
-	<a href="https://mail.google.com" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=323330&logoColor=blue&labelColor=&style=plastic" height="35" alt="Gmail logo">
-  	            </a>
-  	  <a href="https://www.linkedin.com/in/lucasazevedo23/" target="_blank">
-                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=323330&logoColor=blue&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
- 	                  </a>
+	  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+   		<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=323330&logoColor=blue&labelColor=&style=plastic" width="90" alt="Gmail logo">
+ 			 </a>	
+  	  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=323330&logoColor=blue&labelColor=&style=plastic" width="110" alt="linkedin logo">
+ 	                	</a>
 </div>
 
 
